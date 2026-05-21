@@ -24,7 +24,9 @@ namespace SistemaNomina.Clases
         }      
         public abstract decimal CalculoPagoSemanal();
 
-   
+        public abstract string ObtenerTipoEmpleado();
+
+
 
     }
 }

@@ -26,6 +26,10 @@ namespace SistemaNomina.Clases
             {
                 return (SueldoPorHora* 40) + (SueldoPorHora* 1.5m + (HorasTrabajadas - 40));
             }
-}
+        }
+        public override string ObtenerTipoEmpleado()
+        {
+            return "Empleado por Horas";
+        }
     }
 }

@@ -20,5 +20,10 @@ namespace SistemaNomina.Clases
         {
             return ( VentasBrutas * TarifaComision);
         }
+
+        public override string ObtenerTipoEmpleado()
+        {
+            return "Empleado por Comisión";
+        }
     }
 }

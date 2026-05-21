@@ -25,5 +25,10 @@ namespace SistemaNomina.Clases
             return ((VentasBrutas * TarifaComision) + SalarioBase 
              + (SalarioBase*0.10m));
         }
+
+        public override string ObtenerTipoEmpleado()
+        {
+            return "Empleado Asalariado por Comisión";
+        }
     }
 }

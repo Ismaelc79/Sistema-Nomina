@@ -178,7 +178,7 @@ namespace SistemaNomina
 
             foreach (Empleado emp in empleados)
             {
-                Console.WriteLine("--------------------------------");
+                Console.WriteLine("----------------------------------");
 
                 Console.WriteLine("Nombre: "
                     + emp.PrimerNombre + " "
@@ -187,10 +187,13 @@ namespace SistemaNomina
                 Console.WriteLine("NSS: "
                     + emp.NumeroSeguroSocial);
 
+                Console.WriteLine("Tipo de empleado: "
+                    + emp.ObtenerTipoEmpleado());
+
                 Console.WriteLine("Pago semanal: "
                     + emp.CalculoPagoSemanal());
 
-                Console.WriteLine("--------------------------------");
+                Console.WriteLine("----------------------------------");
             }
 
             Console.ReadKey();

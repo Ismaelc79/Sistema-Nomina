@@ -22,6 +22,11 @@ namespace SistemaNomina.Clases {
             return SalarioSemanal;
         }
 
+        public override string ObtenerTipoEmpleado()
+        {
+           return "Empleado Asalariado";
+        }
+
        
     }
 }
