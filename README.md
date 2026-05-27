@@ -8,6 +8,7 @@ archivo que permita llevar un registro semanal de todas las nóminas de los empl
 Pre-requisitos 📋
 
 -.NET 8.0 SDK (o superior)
+
 -Entorno de desarrollo (IDE) Visual Studio 2022/2026
 
 Construido con 🛠️
