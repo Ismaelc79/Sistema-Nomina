@@ -15,7 +15,9 @@ Construido con 🛠️
 *Vistual Studio 2026 Community Edition- IDE de codificación
 
 Pruebas del sistema 🛠️
+
 <img width="502" height="514" alt="image" src="https://github.com/user-attachments/assets/6f3b9fda-2fa7-43ac-8bee-446c0cb750e9" />
+
 <img width="502" height="514" alt="image" src="https://github.com/user-attachments/assets/b42ca24f-b985-451e-82d6-b787f7094545" />
 
 
